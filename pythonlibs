@@ -1,0 +1,13 @@
+paramiko
+pyside6
+reportlab
+numpy
+pandas
+matplotlib
+fuzzywuzzy
+qrcode
+docx  pip install python-docx 
+exceptions
+fpdf
+
+python3.11

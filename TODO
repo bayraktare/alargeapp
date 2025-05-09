@@ -1,0 +1,16 @@
+QSortFilterProxyModel listwidget ile çalışmıyor. listwidgetın, listview kopyasını yapıp listwidget ı görünmez yaptım
+visualize data, get test details,create report listview ile çalışmıyor.(belki selectedrow da sıkıntı vardır)
+
+
+bağlantı sayfasındaki logo sürekli kayboluyor.
+butonların yanındaki simgeler yanlış
+
+
+
+
+
+
+
+
+
+main_with_filter.py filtreleme sistemi olan kod
